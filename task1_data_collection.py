@@ -1,9 +1,6 @@
 import requests # used to make API calls
-
 import time   # used to add delay between requests
-
 import os    # used to create folders
-
 import json   # used to save data in JSON format
 
 from datetime import datetime # used to get current timestamp
